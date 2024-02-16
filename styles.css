@@ -1,0 +1,20 @@
+
+h1
+{
+    color: rgba(180, 180, 33, 0.822); 
+    background-color: azure; 
+    text-align: center;
+    font-weight: 800;
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.recipe-list
+{
+    color: rgba(0, 0, 0); 
+    background-color: azure; 
+    
+    font-weight: 300;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
